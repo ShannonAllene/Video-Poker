@@ -29,16 +29,5 @@ This project was a group course assignment for Computer Programming II (Java). T
 | Two Pair		  |	1:2   |
 | Jacks or Better |	1:1   |
 
-
-> Royal Flush		1:250
-> Straight Flush	1:50
-> Four of a Kind	1:25
-> Full House		1:9
-> Flush:			1:6
-> Straight			1:4
-> Three of a Kind	1:3
-> Two Pair			1:2
-> Jacks or Better	1:1
-
 ##Acknowledgements
 Alix Rosarion is co-creator of this Video Poker project.
