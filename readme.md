@@ -29,5 +29,8 @@ This project was a group course assignment for Computer Programming II (Java). T
 | Two Pair		  |	1:2   |
 | Jacks or Better |	1:1   |
 
+##Notes
+We realized later that using a stack would have been much more efficient in making this project. Instead we used a random generator to produce the card hands. *(Maybe a project for another day.)*
+
 ##Acknowledgements
 Alix Rosarion is co-creator of this Video Poker project.
