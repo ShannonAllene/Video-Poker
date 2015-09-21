@@ -32,5 +32,11 @@ This project was a group course assignment for Computer Programming II (Java). T
 ##Notes
 We realized later that using a stack would have been much more efficient in making this project. Instead we used a random generator to produce the card hands. *(Maybe a project for another day.)*
 
+Board Class - holds all the information needed to create the GUI
+
+Deck Class - keeps up with the cards' ranks and suits
+
+Winning Hands Class - determines if the card hand is a win or not
+
 ##Acknowledgements
 Alix Rosarion is co-creator of this Video Poker project.
